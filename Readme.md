@@ -1,32 +1,27 @@
-# Allison Birkrem
+# Allison Birkrem (She/Her)
 
-[![GitHub followers](https://img.shields.io/github/followers/abirkrem8?label=Follow&style=social)](https://github.com/abirkrem8)
+## 📰 About Me
 
-## About Me
+I'm thrilled to have you here. As a software engineer specializing in .NET Core applications and automation technologies, I'm dedicated to crafting innovative solutions that empower businesses and delight customers. My journey in technology is fueled by a passion for problem-solving and a commitment to delivering impactful results.
 
-Hey there! I'm Allison Birkrem, a software engineer with a specialization in automation and ASP.NET MVC web applications. I have a passion for streamlining processes and creating efficient solutions through automation. With a strong background in ASP.NET MVC, I enjoy building robust web applications that deliver seamless user experiences.
+Throughout my career, I've honed my skills in designing robust .NET Core applications and leveraging automation technologies to streamline processes and drive efficiency. Whether it's developing scalable software solutions or implementing cutting-edge automation systems, I thrive on the challenge of turning complex problems into elegant solutions.
 
-- 🌱 I’m currently exploring the latest advancements in automation technologies and refining my skills in ASP.NET Core
-- 👯 I’m open to collaborating on projects related to automation, web development, and anything that involves solving interesting challenges
-- 💬 Ask me about automation frameworks, ASP.NET MVC, C#, and SQL Server
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/allisonbirkrem)
-- 😄 Pronouns: She/Her
+I'm excited to share my projects with you and demonstrate how my expertise can bring value to your organization.
 
-## Tech Stack
+Thank you for visiting, and please don't hesitate to reach out if you have any questions or if you're interested in collaborating on a project. Let's innovate together and create something extraordinary.
 
-- Programming languages: C#, JavaScript, SQL
-- Frameworks: ASP.NET MVC, ASP.NET Core
-- Tools: Visual Studio, Git, Selenium, Jenkins
-- Databases: SQL Server, MySQL
 
-## GitHub Stats
+## 👩‍💻 Tech Stack
 
-![Allison's GitHub stats](https://github-readme-stats.vercel.app/api?username=abirkrem8&show_icons=true&theme=radical)
+- **Programming languages**
+  ``` C# | Java | JavaScript | SQL | C/C++ | HTML | CSS ```
+- **Tools** ``` Visual Studio | Git | Atlassian ```
+- **Databases** ``` MySQL | Oracle | Firebase ```
 
-## Connect with Me
+## 📫 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/allisonbirkrem)
 - [Email](allisonbirkrem@gmail.com)
-- [Personal Website](https://www.allisonbirkrem.com)
+- [Personal Website](https://allisonbirkrem.wixsite.com/portfolio)
 
 Let's connect and build something awesome together!
